@@ -49,7 +49,7 @@ The arm is now fully controllable via MoveIt2 and uses its motion planning libra
 </p>
 
 ## 4th year Honours Project - Gaze Control
-For my penultimate year project in university I wanted to build upon this platform and incorporate computer vision, as this is an area I find fascinating. 
+For my penultimate year in university I wanted to build upon this platform and incorporate computer vision, as this is an area I find fascinating. 
 
 I decided to work on gaze control, whereby a user can control the robot arm by where they look and how they gesture. This is an active field of research with promising applications in assitive autonomy. For many people suffering from degenerative diseases, reduced motor control often affects the eyes last. It is also a natural way of communicating intent.
 
