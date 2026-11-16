@@ -30,7 +30,7 @@ The arm was designed using a top-down approach, with parameters and skeletal lin
 ROS2 was chosen as the middleware for this system due to prior experience and its widespread use in industry. However, all previous work with ROS2 was in simulation. I had never interfaced with hardware before this project, which was a steep learning curve. The order of development was as follows:
 
 ### Stepper testing
-Hardware control knowledge was improved by completing a [balance beam project]().
+Hardware control knowledge was improved by completing a [balance beam project](https://github.com/msmith693/Balance-Beam-via-Object-Detection).
 
 ### Stepper State Machine
 A state machine was written in Arduino to move steppers through a series of poses. This was my first time implementing this design pattern in C++.
