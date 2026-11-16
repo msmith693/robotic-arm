@@ -1,7 +1,7 @@
 # Robot Arm
 This is an undergoing project that I started over summer 2026. I wanted to gain experience with mechanical design, embedded systems, electronics and ROS2, along with gaining a platform that I can use in the future to develop other skills such as computer vision and human robot interaction.
 
-The aim was to built a cheap, 6DoF robot arm that prioritises precision over payload.
+The aim was to build a cheap, 6DoF robot arm that prioritises precision over payload.
 <p align="center">
   <img src="media/arm_front_render.png" width = 50%><img src="media/arm_rear_render.png" width = 50%>
   <em>Figure 1: Renders of robotic arm</em>
